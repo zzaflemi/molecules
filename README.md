@@ -9,3 +9,5 @@ What does.
 Methods.
 
 data types
+
+type 1
